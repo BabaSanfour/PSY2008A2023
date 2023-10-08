@@ -12,8 +12,9 @@ Il existe plusieurs façons de suivre les activités pratiques de ce cours :
 
 - **Télécharger les notebooks et les ouvrir avec Google Colab.** Vous pouvez également télécharger les notebooks et les téléverser sur Google Drive pour les ouvrir avec [Google Colab](https://colab.research.google.com/). Cette méthode est utile si vous souhaitez exécuter les notebooks dans un environnement cloud (en ligne).
 
-- **Utiliser Binder** [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BabaSanfour/PSY2008A2023/HEAD)
-Cliquez sur l'icône de Binder pour accéder aux notebooks de ce repo via un service cloud. Vous pouvez exécuter et modifier les notebooks de manière interactive, sans avoir à les télécharger localement. Mais vous ne pouvez pas sauvegarder vos modifications de manière permanente. Une fois la session terminée, toutes les modifications sont perdues. De plus le chargement des notebooks peut prendre du temps, en fonction de la taille du projet et de la connexion Internet.
+- **Utiliser Binder** Cliquez sur l'icône de Binder pour accéder aux notebooks de ce repo via un service cloud. Vous pouvez exécuter et modifier les notebooks de manière interactive, sans avoir à les télécharger localement. Mais vous ne pouvez pas sauvegarder vos modifications de manière permanente. Une fois la session terminée, toutes les modifications sont perdues. De plus le chargement des notebooks peut prendre du temps, en fonction de la connexion Internet.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BabaSanfour/PSY2008A2023/HEAD)
 
 Nous vous recommandons d'utiliser la deuxième ou la troisième méthode si vous souhaitez suivre le cours de manière interactive. Pour télécharger les notebooks, vous pouvez cliquer sur le bouton "Code" de la page GitHub puis "Télécharger". Une méthode alternative consiste à créer un dossier de travail, ouvrir le terminal et copier-coller la commande suivante :
 
@@ -22,7 +23,6 @@ Nous vous recommandons d'utiliser la deuxième ou la troisième méthode si vous
 ## Comment contribuer
 
 Si vous trouvez des erreurs ou des incohérences dans les notebooks, n'hésitez pas à les signaler en créant une issue sur GitHub. Vous pouvez également proposer des modifications en créant une pull request. De plus, vous pouvez nous contacter sur le forum de classe pour poser des questions.
-
 
 
 # Liste des Activités Pratiques :
